@@ -1,3 +1,4 @@
+# Face Detection With VGG Pre-Trained Model
 **1. Setup and Dependencies**
 
 - Imports necessary libraries including TensorFlow (tf), OpenCV (cv2), NumPy (np), matplotlib (plt) and JSON.
